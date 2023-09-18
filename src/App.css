@@ -1,0 +1,10 @@
+img {
+  max-width: 300px;
+  margin: 10px;
+  border-radius: 20px;
+  box-shadow: 0 2px 2px 2px rgb(194, 191, 191);
+}
+
+.App {
+  text-align: center;
+}
